@@ -1,0 +1,54 @@
+{
+"Employees" : [
+{
+
+"designation":"Developer",
+"firstName":"Romin",
+"lastName":"Irani",
+"preferredFullName":"Romin Irani",
+"salary":"400000"
+},
+{
+
+"designation":"Developer",
+"firstName":"Neil",
+"lastName":"Irani",
+"preferredFullName":"Neil Irani",
+"salary":"6000400"
+},
+{
+
+"designation":"Program Directory",
+"firstName":"Tom",
+"lastName":"Hanks",
+"preferredFullName":"Tom Hanks",
+"salary":"7000800"
+},
+    
+{
+
+"designation":"Director",
+"firstName":"John",
+"lastName":"Doe",
+"preferredFullName":"John Doe",
+"salary":"5706820"
+},
+    
+{
+
+"designation":"Manager",
+"firstName":"Alice",
+"lastName":"William",
+"preferredFullName":"Alice Williams",
+"salary":"8006820"
+},
+{
+
+"designation":"Managing Director",
+"firstName":"Serena",
+"lastName":"Williams",
+"preferredFullName":"Serena Williams",
+"salary":"10006820"
+}
+]
+}
